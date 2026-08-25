@@ -1,4 +1,4 @@
-IMAGE SLIDESHOW
+ IMAGE SLIDESHOW
 
 LIVE LINK : https://mnsvi.github.io/Slideshow/
 
